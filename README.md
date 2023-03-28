@@ -1,4 +1,4 @@
-<h1>Fake_News_Detectionn</h1>
+<h1>Fake_News_Detection</h1>
 
 <h2>Description</h2>
 The total project gives the metric scores of Naive Bayes and Passive Agressive Algorithms when the model is trained as both Unigram and Bigram using Bag of Words and TF-IDF approaches. These metric scores helps the user to choose the algorithmn to obtain efficient output.
